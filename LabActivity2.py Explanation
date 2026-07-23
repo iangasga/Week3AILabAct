@@ -1,0 +1,5 @@
+Explanation
+
+5. Rule based systems need override conditions para masunod ang special rules na mas mataas ang priority. Halimbawa ang student na may teachers pass ay dapat maapprove kahit hindi pasok sa time at item requirements. Kapag nakalimutan ni Aliah ilagay ang override check bago ang normal condition, maaaring mareject ang isang student kahit qualified naman siya. Magkakaroon ng maling result ang program dahil hindi nito nasusunod ang tamang order ng rules.
+
+Kapag may dalawang rules na nagconflict, kailangan malaman kung alin ang mas importanteng rule. Halimbawa, kahit may teachers pass ang student, hindi pa rin siya makakapasok sa fast lane kung sarado ang cafeteria dahil sa cleaning. Kailangan magdagdag si Aliah ng bagong condition na unang magche-check kung bukas ang cafeteria bago icheck ang teachers pass. Sa ganitong paraan, masusunod muna ang pinaka importanteng rule bago ang ibang conditions.
